@@ -64,7 +64,6 @@ class Rreq extends AodvControlPacket
     unsigned int destSeqNum;
     L3Address originatorAddr;
     unsigned int originatorSeqNum;
-    bool reputation;
 }
 
 //
